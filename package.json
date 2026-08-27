@@ -66,5 +66,8 @@
     "rollup-plugin-summary": "^2.0.1",
     "typescript": "~5.9.0"
   },
-  "customElements": "custom-elements.json"
+  "customElements": "custom-elements.json",
+  "allowScripts": {
+    "core-js-bundle@3.50.0": true
+  }
 }
